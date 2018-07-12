@@ -1,0 +1,9 @@
+[submodule "database"]
+	path = database
+	url = git@github.com:voodoologic/inspo_database.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:voodoologic/inspo_frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:voodoologic/inspo_api.git
