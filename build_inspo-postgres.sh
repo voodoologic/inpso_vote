@@ -1,3 +1,3 @@
 #! /bin/bash
-cd `pwd`/inspo_database
+cd `pwd`/database
 docker build -t inspo-postgres ./
